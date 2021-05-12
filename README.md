@@ -1,4 +1,5 @@
 # UVA-streetlight-final
+by Gavin Wiehl,  Liam Mulcahy, and Chad Sopata.
 Streetlight classification project for DS 6012. Includes CNN with transfer learning
 
 * data gathering scripts - Scripts used to query Google Street View Static API
