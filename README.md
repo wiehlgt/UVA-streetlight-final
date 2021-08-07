@@ -10,3 +10,5 @@ Streetlight classification project for DS 6012. Includes CNN with transfer learn
 * Streetlights_InceptionResNetV2_TL_Model - Version 2 of ResNet transfer model. Highest scoring model
 
 Some scripts have errors shown in the jupyter notebook. This was done post hoc in order to hide certain location data, and does not imply a problem with the script.
+
+![alt text](https://github.com/wiehlgt/UVA-streetlight-final/blob/main/images/streetlight_grid.png?raw=true)
