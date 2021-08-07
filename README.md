@@ -10,4 +10,4 @@ Streetlight classification project for DS 6012. Includes CNN with transfer learn
 
 Some data gathering scripts have errors shown in the jupyter notebook. This was done post hoc in order to hide certain location data, and does not imply a problem with the script.
 
-![alt text](https://github.com/wiehlgt/UVA-streetlight-final/blob/main/images/streetlight_grid.png?raw=true)
+<img src="https://github.com/wiehlgt/UVA-streetlight-final/blob/main/images/streetlight_grid.png?raw=true" width="400" height="400">
