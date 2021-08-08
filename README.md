@@ -12,7 +12,7 @@ Some data gathering scripts have errors shown in the jupyter notebook. This was 
 
 ### Brief introduction
 
-<img src="https://github.com/wiehlgt/UVA-streetlight-final/blob/main/images/streetlight_grid.png?raw=true" width="400" height="400">
+<img src="https://github.com/wiehlgt/UVA-streetlight-final/blob/main/images/streetlight_grid.png?raw=true" width="600" height="600">
 
 The goal of this project is to predict the class of streetlights present in the city of Charlottesville, Virginia  based on the image of a given streetlight. We worked with Code for Charlottesville in getting streetlight location and class data. We then scraped the streetlight images from the Google StreetView API by downloading the images closest to the streetlight location data (also ensuring the camera is facing the streetlight).
 
